@@ -1,0 +1,9 @@
+# Intellij Idea
+.idea/
+*.iml
+
+# Java
+target/
+
+# Miscellaneous
+*.log
